@@ -30,7 +30,7 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
-
+package-lock.json
 
 ############################
 # Packages

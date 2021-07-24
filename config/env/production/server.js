@@ -1,3 +1,3 @@
 module.exports = ({ env }) => ({
-  url: env("MY_HEROKU_URL"),
+  url: env("HEROKU_URL"),
 });
